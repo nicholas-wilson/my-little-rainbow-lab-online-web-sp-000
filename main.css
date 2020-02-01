@@ -13,3 +13,7 @@ div {
 div#red {
   border-top-color: #f00
 }
+
+div#orange {
+  border-top-color: #ffa500
+}
